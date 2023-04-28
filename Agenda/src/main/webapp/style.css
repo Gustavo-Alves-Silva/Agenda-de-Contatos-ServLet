@@ -19,8 +19,18 @@ h1{
 	font-size: 1.2em;
 	font-weight: 700;
 	border-radius: 5px;	
-	boder:0;
+	border:0;
 	cursor: pointer;
+}
+
+.Botao2{
+	text-decoration:none;
+	background-color: #d51213;
+	padding: 5px 10px 5px 10px;
+	color: #fff;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 5px;	
 }
 
 .Caixa1{
@@ -38,6 +48,12 @@ h1{
 	border-radius: 5px;
 }
 
+#Caixa3{
+	padding:5px;
+	margin-bottom:10px;
+	border: 1px solid #ff0000;
+}
+
 #tabela{
 	margin-top:30px;
 	border-collapse: collapse;
@@ -45,7 +61,7 @@ h1{
 
 #tabela th{
 	border: 1px solid #ddd;
-	padding: 10px;
+	padding: 20px;
 	text-align: left;
 	background-color: #66bbff;
 	color:#fff;
@@ -53,6 +69,8 @@ h1{
 
 #tabela th{
 	border: 1px solid #ddd;
-	padding:10px;
+	padding: 20px;
 	
 }
+
+
